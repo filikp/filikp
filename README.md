@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Filip Kovač
 - 👀 I’m interested in physics and coding
-- 🌱 I’m currently learning Python at Department of Physics and will soon learn PHP, SQL, HTML, CSS and Java in a course for PHP developers
+- 🌱 I’m currently learning Python at Department of Physics and will soon learn PHP, SQL, HTML, CSS in a course for PHP developers
 - 📫 How to reach me: filip.kvch@gmail.com
 
 <!---
